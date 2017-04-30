@@ -1,0 +1,19 @@
+{
+  "name": "alphabet-application",
+  "version": "0.0.0",
+  "description": "Alphabet Ext.js application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MishaMykhalyuk/alphabet-application.git"
+  },
+  "author": "Misha Mykhalyuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MishaMykhalyuk/alphabet-application/issues"
+  },
+  "homepage": "https://github.com/MishaMykhalyuk/alphabet-application#readme"
+}
